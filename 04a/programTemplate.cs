@@ -29,11 +29,22 @@ namespace MethodParameters
 
             
             // Methods with Parameters
+            static void Makepancakes( int num)
+            {
+                for (int i = 0; i < num; i++) {
+                    {
 
-
+                        Console.Writeline("One golden, fluffly pancake coming up!/n" )
+                }
 
             
+    
+
+
+
             static void Main(string[] args)
+            {
+            Mymethod();
             
     
           {
