@@ -37,15 +37,26 @@ namespace MethodParameters
                         Console.Writeline("One golden, fluffly pancake coming up!/n" )
                 }
 
-            
+                0 refrence
+                static void MakeEggs(int num, string style)
     
 
 
-
-            static void Main(string[] args)
+            // Using Defaults for parameters
+            static void MakeBurger(int num =1)
+             
             {
+             Console.writeline ("im going to cook" + num + hamburgers.\n" )
+             {
+                
+             }
             Mymethod();
-            
+            //Doubleup();
+            //MakePancakes();
+            //MakeEggs(10, "sunny side up");
+            MakeBurger();
+            MakeBurger(10);
+
     
           {
 
