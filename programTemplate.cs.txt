@@ -1,2 +1,12 @@
-This file exists so that empty folders will clone correctly.
-You can safely delete it after cloning the repository. 
+// Carlton Brinkley, Program Template, v0.01
+using system;
+
+namespace MethodParameters
+{
+    class MethodsParameters
+    {
+          // Method -- name block of code, can be used over and over .
+          // All methods have a SIGNATURE that defines their name, parameters, and output.
+          // Example Signature 
+    
+     
